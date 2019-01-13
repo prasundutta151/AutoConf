@@ -3,4 +3,4 @@ main: main.c
 
 	
 clean: 	
-	rm -rf *.~
+	rm -rf *~
